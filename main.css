@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+
+input { 
+    padding: .4rem;
+    font-size: 1rem;
+}
+button { 
+    padding: .2rem;
+    font-size: 1rem;
+}
+.btn { 
+    background: #ffeb3b;
+}
+.wrong, .right { 
+    display: none
+}
+.visible { 
+    display: inline;
+}
+.aha{ 
+    color: #607d8b;
+
+}
+img {
+    width: 80%;
+
+}
